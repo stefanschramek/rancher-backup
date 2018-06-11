@@ -1,0 +1,3 @@
+plexmediaserver:
+  regex: "plexmediaserver"
+  template: "plexmediaserver.yml"
